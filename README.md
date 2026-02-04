@@ -1,3 +1,4 @@
 DSR_V3 is New Model Which Saubrab is working On 
 For bench Test Purpose the Code is developed for now 
 Check the Circuit and code file provided 
+<img width="685" height="616" alt="image" src="https://github.com/user-attachments/assets/d8c2711c-df86-4332-ad69-94dc64378e17" />
